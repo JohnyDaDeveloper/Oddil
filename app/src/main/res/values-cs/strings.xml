@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oddíl</string>
+    <string name="calendar">Kalendář</string>
+    <string name="name">Jméno</string>
+    <string name="newsfeed">Novinky</string>
+    <string name="password">Heslo</string>
+    <string name="profile">Profil</string>
+    <string name="save">Uložit</string>
+    <string name="sign_in">Přihlásit</string>
+    <string name="sign_out">Odhlásit</string>
+    <string name="sign_up">Registrovat</string>
+</resources>

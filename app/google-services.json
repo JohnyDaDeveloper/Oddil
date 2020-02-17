@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561827054210",
+    "firebase_url": "https://oddil-df20a.firebaseio.com",
+    "project_id": "oddil-df20a",
+    "storage_bucket": "oddil-df20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561827054210:android:4b7e269af7244f378bea9b",
+        "android_client_info": {
+          "package_name": "cz.johnyapps.oddil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561827054210-jkiivi548mqj8lms3qf5l01b81nmsigd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.johnyapps.oddil",
+            "certificate_hash": "71e438225f0d0e28f80acf8e7edc54d8c967977d"
+          }
+        },
+        {
+          "client_id": "561827054210-vtvjcatar8oevif1dq3u8jid4oaucq6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6p5F8h4a5ZnjjMMdnb1EalZLIj1GgFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561827054210-vtvjcatar8oevif1dq3u8jid4oaucq6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

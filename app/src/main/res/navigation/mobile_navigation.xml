@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_newsfeed">
+
+    <fragment
+        android:id="@+id/nav_signin"
+        android:name="cz.johnyapps.oddil.ui.signin.SignInFragment"
+        android:label="@string/sign_in"
+        tools:layout="@layout/fragment_signin" />
+
+    <fragment
+        android:id="@+id/nav_signup"
+        android:name="cz.johnyapps.oddil.ui.signup.SignUpFragment"
+        android:label="@string/sign_up"
+        tools:layout="@layout/fragment_signup" />
+
+    <fragment
+        android:id="@+id/nav_newsfeed"
+        android:name="cz.johnyapps.oddil.ui.newsfeed.NewsfeedFragment"
+        android:label="@string/newsfeed"
+        tools:layout="@layout/fragment_newsfeed" />
+
+    <fragment
+        android:id="@+id/nav_calendar"
+        android:name="cz.johnyapps.oddil.ui.calendar.CalendarFragment"
+        android:label="@string/calendar"
+        tools:layout="@layout/fragment_calendar" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="cz.johnyapps.oddil.ui.profile.ProfileFragment"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

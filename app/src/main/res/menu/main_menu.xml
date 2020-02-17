@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_signin"
+        android:icon="@drawable/signin"
+        android:title="@string/sign_in" />
+
+    <item
+        android:id="@+id/nav_signup"
+        android:icon="@drawable/signin"
+        android:title="@string/sign_up" />
+
+    <item
+        android:id="@+id/nav_newsfeed"
+        android:icon="@drawable/newsfeed"
+        android:title="@string/newsfeed" />
+
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/calendar"
+        android:title="@string/calendar" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        android:title="@string/profile" />
+</menu>
